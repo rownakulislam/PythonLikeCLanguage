@@ -1,0 +1,92 @@
+import identifier
+class user
+{
+    dec4 g==1.0
+    num4 g1==1
+}
+
+user u
+
+num4 func function(num4 g1){
+    $g1==$g1 add 1
+    retrive $g1
+}
+
+
+
+dec4 z==2.3
+$z==2.3 add 3.0
+$z== 2.0 into 3
+
+str z1=="lala"
+$z1==$z1 add " again"
+
+
+num4 a==3
+num4 b==$a
+show($b)
+$b==$a add 3
+$b==$b into 2
+$b==$b div 2
+$b==$b reduce 2
+
+pow(2,2)
+
+sin(3)
+asin(3)
+
+cos(10)
+acos(10)
+
+tan(55)
+atan(55)
+
+num4 c
+$c==2<<=3
+
+num4 d
+$d==3>>=2
+
+num4 e
+$e==2<<3
+
+num4 e1==3
+num4 e2==3
+num4 e3
+$e3==$e1===$e2
+
+num4 e4==3
+num4 e5==2
+num4 e6
+$e6==$e4~$e5
+
+whenever ($e6){
+    $e4 add1
+} 
+otherwise whenever($e4~$e5){
+    $e4 add1
+}
+otherwise{
+    $e4==$e4
+}
+
+since(num4 i==1:$i<<=10:$i add1){
+	show($i)
+}
+
+as long as ($i<<=10){
+
+}
+
+options($i){
+    option 1 : $i==$i
+    option 2 :  $i add1
+    default :   $i add1
+
+}
+
+
+show($i)
+
+
+

@@ -1,0 +1,459 @@
+importing files
+Variable
+importing files identifier
+class
+Variable
+Real: 
+Variable
+float value
+type :3
+1.000000
+Int: 
+1.000000varriable declared : g
+Variable
+Int value
+type :2
+1
+varriable declared : g1
+class declared
+Variable
+Variable
+Int: 
+Variable
+Int: 
+Variable
+0
+function declared: function
+variable access
+variable access
+type :2
+1
+add
+Int value
+type :2
+1
+return
+type :2
+1
+type :2
+1
+type :2
+2
+Value assigned :: g1 = 2
+variable access
+type :2
+2
+value of the expression: type :2
+2
+return occured
+Real: 
+Variable
+float value
+type :3
+2.300000
+variable access
+2.300000varriable declared : z
+float value
+type :3
+2.300000
+add
+float value
+type :3
+3.000000
+variable access
+type :3
+2.300000
+type :3
+3.000000
+type :3
+5.300000
+Value assigned :: z = 5.300000
+float value
+type :3
+2.000000
+into
+Int value
+type :2
+3
+String
+type :3
+2.000000
+type :2
+3
+Value assigned :: z = 6.000000
+Variable
+type :4
+lala
+variable access
+varriable declared : z1
+variable access
+type :4
+lala
+add
+type :4
+ again
+Int: 
+type :4
+lala
+type :4
+ again
+type :4
+lala again
+Value assigned :: z1 = lala again
+Variable
+Int value
+type :2
+3
+Int: 
+varriable declared : a
+Variable
+variable access
+type :2
+3
+print
+varriable declared : b
+PRINT : variable access
+type :2
+3
+type :2
+3
+variable access
+variable access
+type :2
+3
+add
+Int value
+type :2
+3
+variable access
+type :2
+3
+type :2
+3
+type :2
+6
+Value assigned :: b = 6
+variable access
+type :2
+6
+into
+Int value
+type :2
+2
+variable access
+type :2
+6
+type :2
+2
+Value assigned :: b = 12
+variable access
+type :2
+12
+div
+Int value
+type :2
+2
+variable access
+type :2
+12
+type :2
+2
+Value assigned :: b = 6
+variable access
+type :2
+6
+minus
+Int value
+type :2
+2
+type :2
+6
+type :2
+2
+Value assigned :: b = 4
+Int value
+type :2
+2
+Int value
+type :2
+2
+Value of the expression :: 4.000000
+value of the expression: type :2
+2
+Int value
+type :2
+3
+Value of the expression :: 0.141120
+value of the expression: type :2
+2
+Int value
+type :2
+3
+Value of the expression :: -1.#IND00
+value of the expression: type :2
+3
+Int value
+type :2
+10
+Value of the expression :: -0.839072
+value of the expression: type :2
+3
+Int value
+type :2
+10
+Value of the expression :: -1.#IND00
+value of the expression: type :2
+10
+Int value
+type :2
+55
+Value of the expression :: -45.183088
+value of the expression: type :2
+10
+Int value
+type :2
+55
+Value of the expression :: 1.552617
+Int: 
+value of the expression: type :2
+55
+Variable
+variable access
+Int value
+type :2
+2
+Int value
+type :2
+3
+Int: 
+type :2
+2
+type :2
+3
+Value assigned :: c = 1
+Variable
+variable access
+Int value
+type :2
+3
+Int value
+type :2
+2
+Int: 
+type :2
+3
+type :2
+2
+Value assigned :: d = 1
+Variable
+variable access
+Int value
+type :2
+2
+Int value
+type :2
+3
+Int: 
+type :2
+2
+type :2
+3
+Value assigned :: e = 1
+Variable
+Int value
+type :2
+3
+Int: 
+varriable declared : e1
+Variable
+Int value
+type :2
+3
+Int: 
+varriable declared : e2
+Variable
+variable access
+variable access
+type :2
+3
+variable access
+type :2
+3
+Int: 
+type :2
+3
+type :2
+3
+Value assigned :: e3 = 1
+Variable
+Int value
+type :2
+3
+Int: 
+varriable declared : e4
+Variable
+Int value
+type :2
+2
+Int: 
+varriable declared : e5
+Variable
+variable access
+variable access
+type :2
+3
+variable access
+type :2
+2
+type :2
+3
+type :2
+2
+Value assigned :: e6 = 1
+variable access
+type :2
+1
+variable access
+increment
+type :2
+3
+type :2
+1
+type :2
+4
+Value assigned :: e4 = 4
+
+
+if executed
+variable access
+type :2
+4
+variable access
+type :2
+2
+type :2
+4
+type :2
+2
+variable access
+increment
+type :2
+4
+type :2
+1
+type :2
+5
+Value assigned :: e4 = 5
+variable access
+variable access
+type :2
+5
+Value assigned :: e4 = 5
+for looop
+Int: 
+Variable
+Int value
+type :2
+1
+varriable declared : i
+variable access
+type :2
+1
+Int value
+type :2
+10
+type :2
+1
+type :2
+10
+variable access
+increment
+type :2
+1
+type :2
+1
+type :2
+2
+Value assigned :: i = 2
+print
+PRINT : variable access
+type :2
+2
+type :2
+2
+
+
+for loop
+
+variable access
+type :2
+2
+Int value
+type :2
+10
+type :2
+2
+type :2
+10
+
+
+while loop
+type :2
+1
+switch
+variable access
+type :2
+2
+
+
+Switch case 
+type :2
+2
+option
+Int value
+type :2
+1
+variable access
+variable access
+type :2
+2
+option
+Value assigned :: i = 2
+type :2
+1
+type :2
+2
+Int value
+type :2
+2
+variable access
+increment
+type :2
+2
+type :2
+1
+type :2
+3
+Value assigned :: i = 3
+default
+type :2
+2
+type :2
+2
+Case executed :: type :2
+2
+variable access
+increment
+type :2
+3
+type :2
+1
+type :2
+4
+Value assigned :: i = 4
+print
+PRINT : variable access
+type :2
+4
+type :2
+4
